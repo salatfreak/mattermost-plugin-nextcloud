@@ -2,9 +2,9 @@
     "id": "com.github.salatfreak.mattermost-plugin-nextcloud",
     "name": "Nextcloud Integration",
     "description": "Integrate Mattermost into Nextcloud",
-		"homepage_url": "https://github.com/salatfreak/mattermost-plugin-nextcloud",
-		"support_url": "https://github.com/salatfreak/mattermost-plugin-nextcloud/issues",
-		"icon_path": "assets/logo.svg",
+    "homepage_url": "https://github.com/salatfreak/mattermost-plugin-nextcloud",
+    "support_url": "https://github.com/salatfreak/mattermost-plugin-nextcloud/issues",
+    "icon_path": "assets/logo.svg",
     "version": "0.1.0",
     "min_server_version": "5.12.0",
     "server": {
@@ -24,6 +24,6 @@
                 "type": "generated",
                 "help_text": "Copy this secret to the settings of the Mattermost app in nextcloud"
             }
-				]
+        ]
     }
 }
